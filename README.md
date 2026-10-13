@@ -13,6 +13,6 @@ Aspiring **Data Analyst** in Bengaluru. I turn raw business data into clear answ
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20Athena%20%7C%20QuickSight-232F3E?logo=amazonaws&logoColor=white)
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/ashwani-singh-data/) · singh888800@gmail.com · Bengaluru, India
+**Contact:** [LinkedIn](https://www.linkedin.com/in/ashwani-singh-data/) · singh888800@gmail.com · +91 9648294255 · Bengaluru, India
 
 My best analytics work is pinned below. Start with the Olist project, which uses 100K real orders.
