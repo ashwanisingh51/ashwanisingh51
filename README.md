@@ -34,4 +34,6 @@ Aspiring **Data Analyst** based in Bengaluru. I like taking raw business data an
 
 ### Contact
 
-Bengaluru, India · Open to work
+- LinkedIn: [linkedin.com/in/ashwani-singh-data](https://www.linkedin.com/in/ashwani-singh-data/)
+- Email: singh888800@gmail.com
+- Location: Bengaluru, India
