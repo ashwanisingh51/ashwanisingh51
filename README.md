@@ -20,7 +20,7 @@ Aspiring **Data Analyst** based in Bengaluru. I like taking raw business data an
 
 | Project | What it does | Stack |
 |---|---|---|
-| [E-commerce Revenue & Customer Analytics](https://github.com/ashwanisingh51/ecommerce-analytics) | Revenue, margin, RFM segmentation, cohort retention and funnel analysis on 18K order lines. Found that the top 21% of customers drive 44% of revenue. | Python, SQL, Power BI |
+| [Olist E-commerce Analytics](https://github.com/ashwanisingh51/olist-ecommerce-analytics) | 100K real marketplace orders. Found that only 3% of customers buy twice, and that late deliveries cut review scores from 4.28 to 2.55. | Python, SQL, Jupyter |
 | [Customer Churn & Retention Analytics](https://github.com/ashwanisingh51/customer-churn-retention) | Churn, MRR and cohort retention for 12K subscribers, with a risk score and a churn model checked against a baseline. | Python, SQL, AWS S3/Athena/QuickSight |
 | [SearchRank Analytics Engine](https://github.com/ashwanisingh51/SearchRank-Analytics-Engine) | Compares Google, Bing and Yahoo results using Precision@k, NDCG and Spearman correlation, with bootstrap confidence intervals. | Python, Selenium, SciPy |
 | [AI-Powered Intrusion Detection](https://github.com/ashwanisingh51/AI-Powered-Intrusion-Detection-System-IDS) | Classifies network traffic as normal or malicious using the CIC-IDS dataset, with a Flask dashboard. | Python, scikit-learn, Flask |
