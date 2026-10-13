@@ -17,7 +17,6 @@ Aspiring **Data Analyst** in Bengaluru. I turn raw business data into clear answ
 
 ### Contact
 
-📄 [Resume (PDF)](https://github.com/ashwanisingh51/ashwanisingh51/blob/main/Ashwani_Kumar_Singh_Resume.pdf)  
 💼 [LinkedIn: ashwani-singh-data](https://www.linkedin.com/in/ashwani-singh-data/)  
 📧 [singh888800@gmail.com](mailto:singh888800@gmail.com)  
 📱 [+91 9648294255](https://wa.me/919648294255)  
