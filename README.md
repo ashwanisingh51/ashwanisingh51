@@ -4,6 +4,8 @@ Aspiring **Data Analyst** in Bengaluru. I turn raw business data into clear answ
 
 **Open to:** Data Analyst, Business Analyst and Product Analyst roles
 
+[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ashwanisingh51/ashwanisingh51/blob/main/Ashwani_Kumar_Singh_Resume.pdf)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -15,6 +17,7 @@ Aspiring **Data Analyst** in Bengaluru. I turn raw business data into clear answ
 
 ### Contact
 
+📄 [Resume (PDF)](https://github.com/ashwanisingh51/ashwanisingh51/blob/main/Ashwani_Kumar_Singh_Resume.pdf)  
 💼 [LinkedIn: ashwani-singh-data](https://www.linkedin.com/in/ashwani-singh-data/)  
 📧 [singh888800@gmail.com](mailto:singh888800@gmail.com)  
 📱 [+91 9648294255](https://wa.me/919648294255)  
