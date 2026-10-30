@@ -32,3 +32,7 @@ B.Tech in Computer Science and Engineering, NIT Jalandhar (2026)
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/ashwani-singh-data/)
+
+
+- Email: singh888800@gmail.com
+* Phone: +91 9648294255
