@@ -1,25 +1,34 @@
-## Hi, I'm Ashwani Kumar Singh
+# Ashwani Kumar Singh
 
-Aspiring **Data Analyst** in Bengaluru. I turn raw business data into clear answers: where revenue comes from, which customers are about to leave, and what the team should do next.
+## Software Engineer | Backend & AI Automation
 
-**Open to:** Data Analyst, Business Analyst and Product Analyst roles
+I build reliable backend systems, AI automation workflows, and cloud-ready products using Python, FastAPI, Node.js, React, PostgreSQL, Redis, Docker, and AWS.
 
-[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ashwanisingh51/ashwanisingh51/blob/main/Ashwani_Kumar_Singh_Resume.pdf)
+**Open to:** Software Engineer, Backend Engineer, and AI Automation / Applied AI opportunities in Bengaluru, hybrid, or remote.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Athena%20%7C%20QuickSight-232F3E?logo=amazonaws&logoColor=white)
+[View my resume](https://github.com/ashwanisingh51/ashwanisingh51/blob/main/Ashwani_Kumar_Singh_Resume.pdf)
 
-### Contact
+## Featured Projects
 
-💼 [LinkedIn: ashwani-singh-data](https://www.linkedin.com/in/ashwani-singh-data/)  
-📧 [singh888800@gmail.com](mailto:singh888800@gmail.com)  
-📱 [+91 9648294255](https://wa.me/919648294255)  
-📍 [Bengaluru, India](https://www.google.com/maps/search/?api=1&query=Bengaluru%2C+Karnataka%2C+India)
+### [Workstream - Distributed Task Processing Engine](https://github.com/ashwanisingh51/Workstream)
+Distributed FastAPI and Celery task-processing service with Redis, Docker, and AWS EC2. Designed for 520+ requests per second with Redis Lua rate limiting, dead-letter queues, and retry/backoff workflows; improved throughput 3.8x.
 
-My best analytics work is pinned below. Start with the Olist project, which uses 100K real orders.
+### [SearchRank Analytics Engine - Search Evaluation Framework](https://github.com/ashwanisingh51/SearchRank-Analytics-Engine)
+Search-quality evaluation framework for 100+ queries using NDCG@10 and MAP. Built with Python, Pandas, NumPy, and YAML configuration, with bootstrap confidence intervals and automated PyTest coverage; reduced processing time 45%.
+
+## Engineering Focus
+
+`Python` `FastAPI` `Node.js` `React` `PostgreSQL` `Redis` `Docker` `AWS` `LangChain` `LangGraph` `RAG` `LLMs`
+
+## Experience Highlights
+
+- **CloudFinOps:** Built cloud-cost monitoring dashboards with React, Node.js, Supabase, and PostgreSQL; reduced query latency 35% and automated CI/CD with GitHub Actions and AWS.
+- **DeepQ-AI:** Built AI-powered email automation using LangGraph, LangChain, RAG, FAISS, LangSmith, Gmail API, and FastAPI, including human-in-the-loop approvals.
+
+## Education
+
+B.Tech in Computer Science and Engineering, NIT Jalandhar (2026)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ashwani-singh-data/)
